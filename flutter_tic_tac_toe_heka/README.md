@@ -2,6 +2,6 @@
 
 My tic tac toe example
 
--Custom alert dialog
--dynamic button create
--boot player
+- Custom alert dialog
+- dynamic button create
+- boot player
